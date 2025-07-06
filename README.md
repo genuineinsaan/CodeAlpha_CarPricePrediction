@@ -62,7 +62,7 @@ This task demonstrated how **machine learning can be used for real-world busines
 
 ## 📸 Demo
 
-A quick walkthrough of this project is available on my [LinkedIn post]([#](https://www.linkedin.com/posts/shashank-srivastava-58269b281_codealpha-codealpha-machinelearning-activity-7347485104983654401-s2wv?utm_source=share&utm_medium=member_desktop&rcm=ACoAAESffnIBDh79S70FAApN1S-hCSb2FmhSRto))  
+A quick walkthrough of this project is available on my [LinkedIn post]((https://www.linkedin.com/posts/shashank-srivastava-58269b281_codealpha-codealpha-machinelearning-activity-7347485104983654401-s2wv?utm_source=share&utm_medium=member_desktop&rcm=ACoAAESffnIBDh79S70FAApN1S-hCSb2FmhSRto))  
 📂 GitHub: [[Link to this repository]](https://github.com/genuineinsaan/CodeAlpha_CarPricePrediction.git)
 
 ---
